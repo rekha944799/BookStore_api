@@ -1,0 +1,5 @@
+TO RUN THE PROJECT:
+cd Desktop
+cd INTERSHIP_OF_PYTHON
+cd BooksStore_API
+uvicorn main:app
