@@ -1,5 +1,5 @@
 # BookStore_api
-# 📚 Bookstore API (FastAPI + PostgreSQL)
+# 📚 Bookstore API (FastAPI + PostgreSQL 18)
 
 ## 🚀 Overview
 This is a REST API built using **FastAPI** and **PostgreSQL** to manage a bookstore system.
